@@ -1,18 +1,22 @@
 
-# Baylis Mysql
+# Baileys Mysql
 
 - create bd => 'chatbot-demo'
 - create table => 'whatsapp_auth(id int primary, data longtext)'
 
 ## Installation
 
-1. npm install
+```
+npm install
+```
 
 ## run
 
-2. node index.js
+```
+node index.js
+```
 
 ## scan Qr
 
-3. -
+used
 
