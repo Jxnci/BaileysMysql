@@ -1,0 +1,22 @@
+{
+  "name": "demo-multichatbot",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "janci",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "eslint": "^8.57.1",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3",
+    "pino": "^9.5.0",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "socket.io": "^4.8.0"
+  }
+}
